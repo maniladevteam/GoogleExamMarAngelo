@@ -1,0 +1,37 @@
+[{
+    "manager_name": "nssi",
+    "login_name": "nishanthi",
+    "status": 2
+}, {
+    "manager_name": "mbarcelona",
+    "login_name": "nssi",
+    "status": 1
+}, {
+    "manager_name": "nishanthi",
+    "login_name": "markcorderoi",
+    "status": 1
+}, {
+    "manager_name": "mbarcelona",
+    "login_name": "richard",
+    "status": 1
+}, {
+    "manager_name": "letecia",
+    "login_name": "kamran",
+    "status": 1
+}, {
+    "manager_name": "letecia",
+    "login_name": "rudy",
+    "status": 2
+}, {
+    "manager_name": "rudy",
+    "login_name": "sol",
+    "status": 1
+}, {
+  "manager_name": "gloria",
+  "login_name": "maria",
+  "status": 1
+}, {
+  "manager_name": "markcorderoi",
+  "login_name": "gloria",
+  "status": 1
+}]
